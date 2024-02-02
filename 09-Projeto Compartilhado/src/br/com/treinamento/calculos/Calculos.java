@@ -13,7 +13,7 @@ public class Calculos {
 	 * @param numero1 recebe o primeiro valor para o cálculo
 	 * @param numero2 recebe o segundo valor para o cálculo
 	 * @return Resultado com a soma dos dois números
-	 * @author Ailton
+	 * @author Davi
 	 * @since  v1
 	 */
 	public static Integer somarDoisNumeros(Integer numero1, Integer numero2){
